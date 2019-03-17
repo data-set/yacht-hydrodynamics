@@ -26,5 +26,9 @@ If applicable, add screenshots to help explain your problem.
 **Desktop (please complete the following information):**
  - OS: [e.g. Windows 10]
 
+**Programming setup (please complete the following information):**
+ - Python version: [e.g. Python 3.7]
+ - IDE: [e.g. Spyder, Jupyter]
+
 **Additional context**
 Add any other context about the problem here.
